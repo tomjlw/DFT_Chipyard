@@ -7,5 +7,5 @@ Table of Contents
    :maxdepth: 3
    :numbered:
    
-  scan-chain/scan chain.rst
+  scan-chain/inedx.rst
 
