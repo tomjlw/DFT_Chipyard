@@ -1,1 +1,10 @@
-Explore DFT Techniques fo Chipyard Project
+Welcome to DFT_Chipyard's documentation
+==========================================================
+
+Table of Contents
+
+.. toctree::
+   :maxdepth: 3
+   :numbered:
+
+
